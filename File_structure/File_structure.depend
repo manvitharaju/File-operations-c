@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1634751194 source:c:\users\manvi\desktop\practice_c\file_structure\student.c
+	"student.h"
+	<stdlib.h>
+	<stdio.h>
+
+1634750554 c:\users\manvi\desktop\practice_c\file_structure\student.h
+
+1634750557 source:c:\users\manvi\desktop\practice_c\file_structure\main.c
+	<stdio.h>
+	<stdlib.h>
+	"student.h"
+	<assert.h>
+

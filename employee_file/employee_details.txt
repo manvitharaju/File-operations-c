@@ -1,0 +1,4 @@
+1 	 manvitha 	 hr 	 34000.000000 
+2 	 ravi 	 manager 	 31000.000000 
+3 	 ciya 	 hr 	 39000.000000 
+4 	 maan 	 manager 	 36000.000000 

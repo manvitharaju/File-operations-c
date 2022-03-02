@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1634480805 source:c:\users\manvi\desktop\practice_c\practice_c\structure.c
+	"structure.h"
+
+1634480805 c:\users\manvi\desktop\practice_c\practice_c\structure.h
+
+1634479313 source:c:\users\manvi\desktop\practice_c\practice_c\main.c
+	<stdio.h>
+	<stdlib.h>
+	"structure.h"
+	<assert.h>
+

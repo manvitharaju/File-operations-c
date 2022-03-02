@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1634652593 source:c:\users\manvi\desktop\practice_c\practice_lab_test\lab.c
+	"lab.h"
+	<stdlib.h>
+	<stdio.h>
+
+1634651816 c:\users\manvi\desktop\practice_c\practice_lab_test\lab.h
+
+1634652622 source:c:\users\manvi\desktop\practice_c\practice_lab_test\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lab.h"
+

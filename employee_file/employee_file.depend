@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1634969037 source:c:\users\manvi\desktop\practice_c\employee_file\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1634968960 source:c:\users\manvi\desktop\practice_c\employee_file\emp.c
+	"emp.h"
+	<stdio.h>
+	<string.h>
+
+1634968960 c:\users\manvi\desktop\practice_c\employee_file\emp.h
+
